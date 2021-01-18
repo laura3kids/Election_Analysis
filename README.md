@@ -12,26 +12,28 @@ ___
 ### Results
  * There was a total of 369,711 votes cast in this congressional election
  
-  ![TotalVotes](https://github.com/laura3kids/Election_Analysis/blob/main/Total%20Votes.png)
+    ![TotalVotes](https://github.com/laura3kids/Election_Analysis/blob/main/Total%20Votes.png)
   
- * County summary
- ** Denver county had the overall highest turnout of votes cast, with 82.8% (306,055) of the total votes, followed by Jefferson county, which had 10.5% (38,855) of the overall votes, and Arapahoe county came in last with only 6.7% (24,801) of the total votes cast.
+ * Denver county had the overall highest turnout of votes cast, with 82.8% (306,055) of the total votes, followed by Jefferson county, which had 10.5% (38,855) of the overall votes, and Arapahoe county came in last with only 6.7% (24,801) of the total votes cast.
  
+    ![CountySummary](https://github.com/laura3kids/Election_Analysis/blob/main/County%20Results.png)
 
  * Denver county had the largest number of votes with 306,055 votes
  
+    ![LargestCounty](https://github.com/laura3kids/Election_Analysis/blob/main/largest%20county.png)
+ 
  * There was a total of three candidates. Each shown below with the percentage of total votes they recieved and the total number of votes they recieved. 
+ 
+    ![CandidateSummary](https://github.com/laura3kids/Election_Analysis/blob/main/candidate%20results.png)
  
  * The winner of this election was Diana DeGette with 73.8% of the total votes, accounting for 272,892 total votes. 
  
+    ![WinnerSummary](https://github.com/laura3kids/Election_Analysis/blob/main/winner.png)
+    
 ___
 
 ### Summary
 
 . 
-
-Run Time 2017 ![Run_Time_2017](https://github.com/laura3kids/VBA-Challenge/blob/main/VBA_Challenge_2017.png)
-
-Run Time 2018 ![Run_Time_2018](https://github.com/laura3kids/VBA-Challenge/blob/main/VBA_Challenge_2018.png)
 
 
