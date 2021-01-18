@@ -11,9 +11,11 @@ ___
 
 ### Results
  * There was a total of 369,711 votes cast in this congressional election
+  !https://github.com/laura3kids/Election_Analysis/blob/main/Total%20Votes.png
   
  * County summary
  ** Denver county had the overall highest turnout of votes cast, with 82.8% (306,055) of the total votes, followed by Jefferson county, which had 10.5% (38,855) of the overall votes, and Arapahoe county came in last with only 6.7% (24,801) of the total votes cast.
+ 
 
  * Denver county had the largest number of votes with 306,055 votes
  
