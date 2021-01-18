@@ -34,6 +34,6 @@ ___
 
 ### Summary
 
-. 
+This code could easily be used for any other election results that are captured with similar file structure.  Minimal report changes would need to be made.  You could edit the  rows where the candiates names and counties were held.  This code could also be easily updated to add in states if that data was available in the file.  
 
 
